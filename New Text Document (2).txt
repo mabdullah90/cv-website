@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Muhammad Abdullah| Web developer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+      <h1>Muhammad Abdullah</h1>
+      <p>Web developer</p>
+      <div class="contact">
+         <span>ph no:+923336851640
+         gmail:mabdullahawan549@gmail.com
+         location: pakistan</span>
+      </div>  
+    </header>
+    <main class="container">
+      <section>
+        <h2>Professional summary</h2>
+        <p>Entry- level Web develper & Bs se student at (suit).</p>
+         <p>Html,Css,javascript,Phython,and java with hands-on Project.</p>   
+        <p>Experience ,Seeking an internship or junior developer role.</p>
+      </section>  
+    </main>
+    <section>
+      <h2>Education</h2>
+      <p>
+       <strong>Bachelor of Science in Software Engineering (BSSE)</strong><br>
+       Sarhad university of Science & information technology(suit), peshawar<br>
+       2022-Present 
+      </p>  
+    </section>
+    <section>
+      <h2>TECHNIAL SKILLS</h2>
+      <ul class="skills">
+        <li>HTML-5</li>
+        <li>CSS-3</li>
+        <li>JAVASCRIPT</li>
+        <li>PYTHON</li>
+        <li>JAVA</li>
+        <li>BOOTSTRAP</li>
+        <li>Git& GitHub</li>
+        <li>Basic sql</li>
+      </ul>  
+    </section>
+    <section>
+      <h2>experience</h2>
+      <ul>
+       <li>Developed responsive websites using html,css,javascript</li>
+       <li>created ui layouts using bootstraps</li>
+       <li>implemented javascript for interactivity and validation</li>
+       <li>practiced python and java programming fundamentals</li> 
+      </ul>  
+    </section>
+    <section>
+      <h2>languages</h2>
+      <p>english,french</p>  
+    </section>
+    <footer>@ 2025 Muhammad Abdullah</footer>
+    <button onclick="downloadcv()">Download CV</button>
+    <script src="script.js"></script>
+</body>
+</html>
